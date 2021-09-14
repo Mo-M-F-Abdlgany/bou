@@ -43,7 +43,7 @@ content:();
     padding: .375rem .75rem;
 } 
  .search-input {
-        background-image: url("../img/searchicon.png");
+        background-image: url("searchicon.png");
         background-repeat: no-repeat;
         background-position: left calc(.375em + .1875rem) center;
         background-size: calc(.75em + .375rem) calc(.75em + .375rem);}
